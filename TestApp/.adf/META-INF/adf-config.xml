@@ -18,7 +18,7 @@
           <metadata-store-usage id="mstore-usage_1">
             <metadata-store class-name="oracle.mds.persistence.stores.file.FileMetadataStore">
               <property name="partition-name" value="seed"/>
-              <property name="metadata-path" value="${oracle.home}/integration"/>
+              <property name="metadata-path" value="${soa.oracle.home}/integration"/>
             </metadata-store>
           </metadata-store-usage>
         </metadata-store-usages>
